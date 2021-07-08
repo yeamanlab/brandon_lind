@@ -22,8 +22,11 @@ If you use or are inspired by code in this repository please cite the following 
 
 -----
 ### Repositories completed or in progress (publications coming soon)
-1. [CoAdapTree CMH test](https://github.com/brandonlind/cmh_test)
-    - This code takes output from the VarScan pipeline and calculates Cochran-Mantel-Haenszel chi-squared tests on stratified contingency tables of read counts standardized by population ploidy. 
+1. [CoAdapTree CMH test](https://github.com/brandonlind/cmh_test) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5083798.svg)](https://doi.org/10.5281/zenodo.5083798)
+    - This code takes output from the VarScan pipeline and calculates Cochran-Mantel-Haenszel chi-squared tests on stratified contingency tables of read counts standardized by population ploidy.
+```
+Lind B (2021) GitHub.com/brandonlind/cmh_test: preprint release (Version 1.0.0). Zenodo. http://doi.org/10.5281/zenodo.5083798
+```
 
 1. [Douglas-fir GEA populations (in progress)](https://github.com/brandonlind/doug_fir_mapping_pops_analyses) 
     - This repository contains the processessing scripts needed to analyze range-wide populations of Douglas-fir.

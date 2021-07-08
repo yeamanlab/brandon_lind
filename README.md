@@ -22,11 +22,17 @@ If you use or are inspired by code in this repository please cite the following 
 
 -----
 ### Repositories completed or in progress (publications coming soon)
+1. [CoAdapTree pool-seq VarScan pipeline](https://github.com/coadaptree/varscan_pipeline) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5083302.svg)](https://doi.org/10.5281/zenodo.5083302)
+    - autonomous SNP calling pipeline for pool-seq data with VarScan
+    ```
+    Lind B (2021) GitHub.com/CoAdapTree/varscan_pipeline: Publication release (Version 1.0.0). Zenodo. http://doi.org/10.5281/zenodo.5083302
+    ```
+
 1. [CoAdapTree CMH test](https://github.com/brandonlind/cmh_test) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5083798.svg)](https://doi.org/10.5281/zenodo.5083798)
     - This code takes output from the VarScan pipeline and calculates Cochran-Mantel-Haenszel chi-squared tests on stratified contingency tables of read counts standardized by population ploidy.
-```
-Lind B (2021) GitHub.com/brandonlind/cmh_test: preprint release (Version 1.0.0). Zenodo. http://doi.org/10.5281/zenodo.5083798
-```
+    ```
+    Lind B (2021) GitHub.com/brandonlind/cmh_test: preprint release (Version 1.0.0). Zenodo. http://doi.org/10.5281/zenodo.5083798
+    ```
 
 1. [Douglas-fir GEA populations (in progress)](https://github.com/brandonlind/doug_fir_mapping_pops_analyses) 
     - This repository contains the processessing scripts needed to analyze range-wide populations of Douglas-fir.
@@ -42,7 +48,6 @@ Lind B (2021) GitHub.com/brandonlind/cmh_test: preprint release (Version 1.0.0).
 1. (accepted) BM Lind*, M Lu*, D Vidakovic, P Singh, T Booker, S Yeaman, S Aitken. Haploid, diploid, and pooled exome capture recapitulate features of biology and paralogy in two non-model tree species. Molecular Ecology Resources. Molecular Ecology Resources - [preprint available at bioRxiv](https://doi.org/10.1101/2020.10.07.329961)
     - <b> Abstract </b>
 Despite their suitability for studying evolution, many conifer species have large and repetitive giga-genomes (16-31Gbp) that create hurdles to producing high coverage SNP datasets that captures diversity from across the entirety of the genome. Due in part to multiple ancient whole genome duplication events, gene family expansion and subsequent evolution within Pinaceae, false diversity from the misalignment of paralog copies create further challenges in accurately and reproducibly inferring evolutionary history from sequence data. Here, we leverage the cost-saving benefits of pool-seq and exome-capture to discover SNPs in two conifer species, Douglas-fir (Pseudotsuga menziesii var. menziesii (Mirb.) Franco, Pinaceae) and jack pine (Pinus banksiana Lamb., Pinaceae). We show, using minimal baseline filtering, that allele frequencies estimated from pooled individuals show a strong positive correlation with those estimated by sequencing the same population as individuals (r > 0.948), on par with such comparisons made in model organisms. Further, we highlight the use of haploid megagametophyte tissue in identifying sites that are likely due to misaligned paralogs. Together with additional minor filtering, we show that it is possible to remove many of the loci with large frequency estimate discrepancies between individual and pooled sequencing approaches, improving the correlation further (r > 0.973). Our work addresses bioinformatic challenges in non-model organisms with large and complex genomes, highlights the use of megagametophyte tissue for the identification of paralog sites when sequencing large numbers of populations, and suggests the combination of pool-seq and exome capture to be robust for further evolutionary hypothesis testing in these systems.
-    - [VarScan autonomous SNP calling pipeline](https://github.com/brandonlind/varscan_pipeline) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5083302.svg)](https://doi.org/10.5281/zenodo.5083302)
     - [Code for manuscript](https://github.com/brandonlind/testdata_validation) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5083292.svg)](https://doi.org/10.5281/zenodo.5083292)
     - [Data for manuscript](https://doi.org/10.5061/dryad.k0p2ngf7w)
 [![DOI](https://zenodo.org/badge/DOI/10.5061/dryad.k0p2ngf7w.svg)](https://doi.org/10.5061/dryad.k0p2ngf7w)

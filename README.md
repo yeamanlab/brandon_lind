@@ -3,7 +3,7 @@
 <a href="https://twitter.com/iowensis"><img src="https://img.shields.io/twitter/follow/iowensis?color=green&logoColor=blue&style=social"></a>
 
 # Brandon Lind
-Overview of work done during time with the Yeaman Lab. More detailed descriptions accompany the linked repositories' READMEs.
+Overview of work done during time with Sally Aitken and Sam on the CoAdapTree project. More detailed descriptions accompany the linked repositories' READMEs.
 
 -----
 ### Contact Info
